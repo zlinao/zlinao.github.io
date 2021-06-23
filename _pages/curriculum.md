@@ -30,13 +30,13 @@ nav: true
     <li><b>Workshops</b> MetaNLP</li>
     </ul>
 </li>
-<li><b>Talk</b> [Deeper Conversational AI](https://nips.cc/Conferences/2020/Schedule?showEvent=16657) tutorial at NeurIPS 2020</li>
+<li><b>Talk</b> <a href="https://nips.cc/Conferences/2020/Schedule?showEvent=16657">Deeper Conversational AI</a> tutorial at NeurIPS 2020</li>
 </ul>
 
 <br/>
 <h3>🏆 Awards</h3>
 <hr/>
 <ul>
-<li><b>Best Paper Awards</b> [ConvAI@NeurIPS 2019](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html) for Attention Over Paramters for Dialogue Systems.</li>
-<li><b>Best Paper Awards</b> [RepL4NLP@ACL 2019](https://ece.hkust.edu.hk/news/paper-prof-pascale-fung-and-her-pg-students-was-selected-outstanding-papers-and-received-best) for Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition.</li>
+<li><b>Best Paper Awards</b> <a href="http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html">ConvAI@NeurIPS 2019</a></li>
+<li><b>Best Paper Awards</b> <a href="(https://ece.hkust.edu.hk/news/paper-prof-pascale-fung-and-her-pg-students-was-selected-outstanding-papers-and-received-best)">RepL4NLP@ACL 2019</a> for Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition.</li>
 </ul>
