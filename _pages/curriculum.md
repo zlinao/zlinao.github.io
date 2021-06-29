@@ -26,7 +26,7 @@ nav: true
 <li><b>Reviewer and Program Committee</b>
     <ul>
     <li><b>Conferences</b> NeurIPS, ICLR, ICML, AAAI, ACL, EMNLP, NAACL, NLPCC</li>
-    <li><b>Journals</b> Neural Processing Letters</li>
+    <li><b>Journals</b> Artificial Intelligence, Transactions on Audio Speech and Language Processing, Neural Processing Letters</li>
     <li><b>Workshops</b> MetaNLP</li>
     </ul>
 </li>
@@ -37,6 +37,6 @@ nav: true
 <h3>🏆 Awards</h3>
 <hr/>
 <ul>
-<li><b>Best Paper Awards</b> <a href="http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html">ConvAI@NeurIPS 2019</a></li>
+<li><b>Best Paper Awards</b> <a href="http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html">ConvAI@NeurIPS 2019</a> for Attention Over Paramters for Dialogue Systems</li>
 <li><b>Best Paper Awards</b> <a href="(https://ece.hkust.edu.hk/news/paper-prof-pascale-fung-and-her-pg-students-was-selected-outstanding-papers-and-received-best)">RepL4NLP@ACL 2019</a> for Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition.</li>
 </ul>
