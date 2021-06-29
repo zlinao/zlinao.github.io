@@ -25,9 +25,9 @@ nav: true
 <ul>
 <li><b>Reviewer and Program Committee</b>
     <ul>
-    <li><b>Conferences</b> NeurIPS, ICLR, ICML, AAAI, ACL, EMNLP, NAACL, NLPCC</li>
-    <li><b>Journals</b> Artificial Intelligence, Transactions on Audio Speech and Language Processing, Neural Processing Letters</li>
-    <li><b>Workshops</b> MetaNLP</li>
+    <li><b>Conferences:</b> NeurIPS, ICLR, ICML, AAAI, ARR, ACL, EMNLP, NAACL, NLPCC</li>
+    <li><b>Journals:</b> Artificial Intelligence, Transactions on Audio Speech and Language Processing, Neural Processing Letters</li>
+    <li><b>Workshops:</b> MetaNLP</li>
     </ul>
 </li>
 <li><b>Talk</b> <a href="https://nips.cc/Conferences/2020/Schedule?showEvent=16657">Deeper Conversational AI</a> tutorial at NeurIPS 2020</li>
